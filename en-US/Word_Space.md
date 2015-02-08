@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 21
-category: workflow
-title: Word Spacing
----
+# Word Spacing
 
 It may sound funny to pay special attention to the word space, however it is one of the most
 commonly used parts of a type design.  

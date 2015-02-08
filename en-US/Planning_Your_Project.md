@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 4
-category: Before You Begin
-title: Planning Your Project
----
+# Planning Your Project
 
 Now that you have a sense of how a font design can vary, you may want to decide whether your project
 will have only one font, if it will be a collection of several inter-related fonts, if it will be a

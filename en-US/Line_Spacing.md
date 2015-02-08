@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 24
-category: workflow
-title: Line Spacing
----
+# Line Spacing
 
 When you have the word space and the n and o set you can begin to look at the line spacing. However, a full and final decision about line spacing isn't possible until you have Capital letters and some punctuation.
 

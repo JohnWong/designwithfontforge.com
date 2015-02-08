@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 26
-category: workflow
-title: Completing the Lower Case
----
+# Completing the Lower Case
 
 You may have noticed in fonts you've seen before that, while each letter has its own shape, they all relate to each other. By carefully de-constructing a few glyphs, you gain the building blocks of nearly all the others.
 

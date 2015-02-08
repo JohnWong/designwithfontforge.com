@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 23
-category: workflow
-title: Capital letters
----
+# Capital letters
 
 Making the capital letters should follow a pattern very similar to the making of the lower case letters. You begin by designing key letters whose shapes and characteristics lend themselves to the design of chararacters which share a common shape. Just like with lower case letters the frequency with which letters are used also remain an important factor in the choice of the letters.
 

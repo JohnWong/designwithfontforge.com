@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 07
-category: workflow
-title: The EM Square
----
+# The EM Square
 
 &mdash; Also called the ‘em size’ or ‘UPM’.  
 In a font, each character is fitted into its own space container. In traditional metal type this

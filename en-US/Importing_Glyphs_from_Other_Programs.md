@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 92
-category: Appendices
-title: Importing Glyphs from Other Programs
----
+# Importing Glyphs from Other Programs
 
 It is possible to draw glyphs in a general purpose illustration application (Inkscape, Adobe Illustrator, etc) and import them as EPS or SVG. 
 

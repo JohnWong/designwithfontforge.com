@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 10
-category: Getting To Know FontForge
-title: Installing FontForge
----
+# Installing FontForge
 
 [FontForge] is a free and open-source software, which noticeably means that you can download and
 install it without restrictions.  It also means that this is a community-maintained application (anyone can contribute to the source code).

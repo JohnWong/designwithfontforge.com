@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 91
-category: Appendices
-title: When Things Go Wrong With FontForge Itself
----
+# When Things Go Wrong With FontForge Itself
 
 If you find FontForge crashing whilst in use you might like to send information to the [FontForge
 developer mailing list](https://lists.sourceforge.net/lists/listinfo/fontforge-devel). This way, a

@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 20
-category: workflow
-title: Creating ‘o’ and ‘n’
----
+# Creating ‘o’ and ‘n’
 
 There are many approaches to designing a font. It can be helpful to deconstruct the larger processes
 involved in order to get started quickly, and to provide a solid basis for a whole font’s worth of

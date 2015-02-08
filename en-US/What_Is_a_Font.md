@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 2
-category: Before You Begin
-title: What Is A Font?
----
+# What Is A Font?
 
 &mdash; What makes typefaces different from hand-writing, calligraphy, lettering, and logos?
 

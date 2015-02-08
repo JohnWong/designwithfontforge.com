@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 92
-category: workflow
-title: Designing Devanagari Typefaces
----
+# Designing Devanagari Typefaces
 
 
 _Thanks to Adam Twardoch, Erin McLaughlin, Neelakash Kshetrimayum, Dan Reynolds, Pooja Saxena, Dr Girish Dalvi for contributing many of the ideas on this page_

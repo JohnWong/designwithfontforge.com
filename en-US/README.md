@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 1
-category: Before You Begin
-title: Introduction
----
+# Introduction
 
 This book has been produced to help make the process of type design available to anyone. Type design
 is visually complex as well as highly technical &ndash; however it is easier to begin making type

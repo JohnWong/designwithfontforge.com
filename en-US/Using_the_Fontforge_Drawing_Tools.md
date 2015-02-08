@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 11
-category: Getting To Know FontForge
-title: Using the FontForge Drawing Tools
----
+# Using the FontForge Drawing Tools
 
 Designing a font in FontForge will involve using a number of tools and utilities, starting with a
 set of drawing tools which may feel familiar to users with experience in vector graphics &ndash;

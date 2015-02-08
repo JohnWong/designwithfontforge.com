@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 93
-category: Appendices
-title: Glossary
----
+# Glossary
 
 ## A
 

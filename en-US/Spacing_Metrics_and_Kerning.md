@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 29
-category: workflow
-title: Spacing, Metrics and Kerning
----
+# Spacing, Metrics and Kerning
 
 The spaces between characters are an important, integral part of the design of a font.
 

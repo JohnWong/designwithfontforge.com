@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 28
-category: workflow
-title: Italic
----
+# Italic
 
 Italics are probably the most misunderstood style in type design, but they are also the style with the greatest potential excitement and fun due to the large number of variables for you the designer to play with.
 

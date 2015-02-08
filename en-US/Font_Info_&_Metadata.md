@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 20
-category: workflow
-title: Font Info & Metadata
----
+# Font Info & Metadata
 
 ## Element, Font Info
 

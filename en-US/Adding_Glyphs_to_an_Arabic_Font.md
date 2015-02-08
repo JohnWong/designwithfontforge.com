@@ -1,10 +1,4 @@
----
-published: true
-layout: bookpage
-weight: 93
-section: Workflow
-title: Adding Glyphs to an Arabic Font
----
+# Adding Glyphs to an Arabic Font
 
 ## Introduction
 
